@@ -1,0 +1,6 @@
+{
+  "name": "My Family Clinic",
+  "description": "My Family Clinic provides comfortable, patient-focused dental care in Kalikapur, Haltu, Kolkata, including professional dental cleaning, check-ups and preventive oral care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
